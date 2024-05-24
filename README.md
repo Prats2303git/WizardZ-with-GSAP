@@ -1,2 +1,3 @@
 Giving Dribble's hosted landing page design WizardZ a new animated design using Greensock Animated Platform(GSAP) - a javascript library widely used for animated features anf scroll-triggers in a website. Cursor animation is also added through gsap. Open for your suggestions.
-Find the deployement at : 
+
+Find the deployement at : https://prats2303git.github.io/WizardZ-with-GSAP/
